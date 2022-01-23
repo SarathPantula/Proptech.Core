@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Proptech.SubModules": {
+    "Proptech.Core": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

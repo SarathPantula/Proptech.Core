@@ -1,0 +1,38 @@
+﻿namespace Proptech.Core.Enums
+{
+    public enum EntityType
+    {
+        ActivityType,
+        MDCUser,
+        MDCGlobalUserRole,
+        MDCOrganizationUserRole,
+        MDCProjectUserRole,
+        MDCUserAddress,
+        MDCUserBankDetails,
+        Organization,
+        OrganizationAddress,
+        OrganizationWorkType,
+        Project,
+        ProjectAddress,
+        ProjectZone,
+        ProjectDivision,
+        Role,
+        ProjectTask,
+        ProjectTaskComment,
+        ProjectTaskDependencyType,
+        ProjectTaskPredecessor,
+        ProjectTaskPriority,
+        ProjectTaskStatus,
+        OrganizationRole,
+        ProjectRole,
+        AddressType,
+        OrganizationClassType,
+        OrganizationRevenueSize,
+        State,
+        WorkType,
+        DesignerType,
+        ProjectPhase,
+        TenderType,
+        OrganizationModuleAccess
+    }
+}
