@@ -1,10 +1,10 @@
 ﻿using Proptech.Core.Interfaces;
 
-namespace Proptech.Core.Models
+namespace Proptech.Core.Models.Response
 {
-    public class MDCResponse : IMDCResponse
+    public class ProptechResponse : IProptechResponse
     {
-        public MDCResponse()
+        public ProptechResponse()
         {
             BadRequestResponses = new List<ErrorMessage>();
             UnAuthorizedResponses = new List<ErrorMessage>();

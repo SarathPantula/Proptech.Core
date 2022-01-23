@@ -1,4 +1,4 @@
-﻿namespace Proptech.Core.Models
+﻿namespace Proptech.Core.Models.Response
 {
     public class ErrorMessage
     {

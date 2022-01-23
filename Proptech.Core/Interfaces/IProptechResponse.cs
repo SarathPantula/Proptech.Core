@@ -1,8 +1,8 @@
-﻿using Proptech.Core.Models;
+﻿using Proptech.Core.Models.Response;
 
 namespace Proptech.Core.Interfaces
 {
-    public interface IMDCResponse
+    public interface IProptechResponse
     {
         public List<ErrorMessage> BadRequestResponses { get; set; }
         public List<ErrorMessage> ConflictResponses { get; set; }

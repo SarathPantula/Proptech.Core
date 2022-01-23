@@ -1,4 +1,4 @@
-﻿namespace Proptech.Core.Models
+﻿namespace Proptech.Core.Models.SMS
 {
     public class SMSMessage
     {
